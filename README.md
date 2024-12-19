@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @okothvientrevor
 - 👀 I’m interested in programmming, data and system analysis.
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on app development
+- 🌱 I’m currently developing with flutter
+- 💞️ I’m looking to collaborate on app and web development
 - 📫 How to reach me vientrevor@gmail.com
 
 <!---
